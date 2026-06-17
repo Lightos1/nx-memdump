@@ -1,6 +1,6 @@
 # NX Memdump
 
-Dump various mmio regions and sysmodule heaps
+Dump various mmio regions and sysmodule heaps. <br>
 Consider this as the successor of https://github.com/Lightos1/emc_dumper
 
 This software is provided "AS IS" and may behave in unexpected ways. <br>
